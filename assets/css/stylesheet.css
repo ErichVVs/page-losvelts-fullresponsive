@@ -55,6 +55,10 @@ footer {
   background-color: #1E3D42;
 }
 
+.descripcion {
+  text-align: justify;
+}
+
 .titulares {
   width: 50%;
 }
@@ -68,6 +72,9 @@ footer {
 @media (max-width: 578px) {
   .titulares {
     width: 100%;
+  }
+  .descripcion {
+    text-align: center;
   }
 }
 /*# sourceMappingURL=stylesheet.css.map */
