@@ -18,6 +18,7 @@
 }
 
 * {
+  overflow-x: hidden;
   margin: 0;
   padding: 0;
   font-family: 'Oswald';
@@ -29,7 +30,6 @@ a {
 
 body {
   background-color: #58b4c2;
-  overflow-x: hidden;
 }
 
 /* 
