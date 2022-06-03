@@ -1,5 +1,5 @@
 .boton{
-    background-color: rgb(0, 0, 0);
+    background-color: (#C2578A);
     border: 0;
     padding: 5px 10px;
     border-radius: 5px;
@@ -9,16 +9,16 @@
 }
 
 .boton:hover{
-    background-color: rgb(72, 170, 116);
+    background-color: (#296B75);
 }
 
 .boton-t{
     @extend .boton;
-        background-color: (#C2578A);
-       border-radius: 1px;
+    
+    border-radius: 1px;
        
 }
 
 .boton-t:hover{
-    background-color: (#1E3D42);
+    background-color: (#296B75);
 }

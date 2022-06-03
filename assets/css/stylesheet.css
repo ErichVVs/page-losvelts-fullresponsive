@@ -33,7 +33,7 @@ footer {
 }
 
 .boton, .boton-t {
-  background-color: black;
+  background-color: #C2578A;
   border: 0;
   padding: 5px 10px;
   border-radius: 5px;
@@ -43,16 +43,15 @@ footer {
 }
 
 .boton:hover, .boton-t:hover {
-  background-color: #48aa74;
+  background-color: #296B75;
 }
 
 .boton-t {
-  background-color: #C2578A;
   border-radius: 1px;
 }
 
 .boton-t:hover {
-  background-color: #1E3D42;
+  background-color: #296B75;
 }
 
 .descripcion {
