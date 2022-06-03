@@ -31,4 +31,20 @@ footer {
   background-color: #58b4c2;
   color: whitesmoke;
 }
+
+.titulares {
+  width: 50%;
+}
+
+@media (max-width: 992px) {
+  .titulares {
+    width: 80%;
+  }
+}
+
+@media (max-width: 578px) {
+  .titulares {
+    width: 100%;
+  }
+}
 /*# sourceMappingURL=stylesheet.css.map */
