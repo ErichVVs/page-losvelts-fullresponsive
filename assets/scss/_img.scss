@@ -1,8 +1,7 @@
 .img{
-    transition: all .5s;
+    filter: grayscale(100%);
 }
   
 .img:hover{
-    width: 300px;
-    transform: translate(0px, -20px);
+    filter: grayscale(0%);
 }

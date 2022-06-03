@@ -1,11 +1,10 @@
 @import url("https://fonts.googleapis.com/css2?family=Oswald:wght@300;400&display=swap");
 .img {
-  transition: all .5s;
+  filter: grayscale(100%);
 }
 
 .img:hover {
-  width: 300px;
-  transform: translate(0px, -20px);
+  filter: grayscale(0%);
 }
 
 .header-inicio {
